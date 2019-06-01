@@ -1,0 +1,17 @@
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\BTN IRC.exe.config
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\BTN IRC.exe
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\BTN IRC.pdb
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\MetroFramework.Design.dll
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\MetroFramework.dll
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\bin\Debug\MetroFramework.Fonts.dll
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.csprojAssemblyReference.cache
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Properties.Resources.resources
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.csproj.GenerateResource.cache
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.csproj.CoreCompileInputs.cache
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.csproj.CopyComplete
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.exe
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN IRC.pdb
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.BTNIRC.resources
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.QuickConnect.resources
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.Settings.resources
+D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.ChanelFavAdd.resources
