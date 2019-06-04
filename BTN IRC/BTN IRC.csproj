@@ -55,11 +55,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Forms\Form1.cs">
+    <Compile Include="Forms\BTNIRC.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\BTNIRC.Designer.cs">
+      <DependentUpon>BTNIRC.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\ChanelFavAdd.cs">
       <SubType>Form</SubType>
@@ -81,8 +81,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Forms\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\BTNIRC.resx">
+      <DependentUpon>BTNIRC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ChanelFavAdd.resx">
       <DependentUpon>ChanelFavAdd.cs</DependentUpon>
@@ -101,6 +101,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -115,6 +116,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smile.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

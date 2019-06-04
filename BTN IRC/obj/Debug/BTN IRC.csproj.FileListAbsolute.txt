@@ -15,3 +15,20 @@ D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.BTNIRC.resources
 D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.QuickConnect.resources
 D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.Settings.resources
 D:\Brett Tech\source\repos\BTN IRC\BTN IRC\obj\Debug\BTN_IRC.Forms.ChanelFavAdd.resources
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\BTN IRC.exe.config
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\BTN IRC.exe
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\BTN IRC.pdb
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\MetroFramework.Design.dll
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\MetroFramework.dll
+D:\Documents\github\BTNIRC\BTN IRC\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.csprojAssemblyReference.cache
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN_IRC.BTNIRC.resources
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN_IRC.Forms.ChanelFavAdd.resources
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN_IRC.Forms.QuickConnect.resources
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN_IRC.Forms.Settings.resources
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN_IRC.Properties.Resources.resources
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.csproj.GenerateResource.cache
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.csproj.CoreCompileInputs.cache
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.csproj.CopyComplete
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.exe
+D:\Documents\github\BTNIRC\BTN IRC\obj\Debug\BTN IRC.pdb
